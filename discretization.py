@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
 # Cargar los datos desde el archivo CSV
-file_path = '/Users/angelarmenta/Dropbox/educar-ia/Discretization/Dataset/ds_limones_naranjas.csv'
+file_path = 'RUTA DEL DATASET'
 data = pd.read_csv(file_path)
 
 # Mostrar la información general del dataset
